@@ -44,8 +44,10 @@ export const HomeView: FC = ({ }) => {
           <div className="hero min-h-16 py-4">
             <div className="text-center hero-content">
               <div className="max-w-lg">
+                <img src="https://i.imgur.com/DsGLuFR.png" width="100" height="100" alt="/" />
+                <br />
                 <h1 className="mb-5 text-5xl font-bold">
-                  Hello Solana <SolanaLogo /> World!
+                  Hello Hustlers! <SolanaLogo />
                 </h1>
                 <p className="mb-2">
                   This website includes amazing tools to help you in the solana ecosystem.

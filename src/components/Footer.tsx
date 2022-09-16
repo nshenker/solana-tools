@@ -53,7 +53,6 @@ const Footer = () => {
                 Built by
                 <a target="_blank" rel="noreferrer" className="text-white" href="https://twitter.com/NFHustle"> <strong>@NFHustle</strong></a>
             </div>
-            <PIPButtonCustom />
         </footer>
     );
 }

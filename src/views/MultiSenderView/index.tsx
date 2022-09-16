@@ -1058,7 +1058,7 @@ export const MultiSenderView: FC = ({ }) => {
               <ul className="text-xs sm:text-xl">
                 <li>
                   <Link href="/">
-                    <a>SOLANA-TOOLS</a>
+                    <a>Non-Fungible Hustle Tools</a>
                   </Link>
                 </li>
               </ul>

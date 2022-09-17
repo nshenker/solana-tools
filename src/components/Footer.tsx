@@ -42,8 +42,8 @@ const Footer = () => {
             </div>
 
             <div className="text-center text-black pb-2">
-                Try on
-                <a target="_blank" rel="noreferrer" className="text-black" href="https://solanatools-devnet.vercel.app/"> <strong className="underline">Devnet</strong></a>
+                Powered by
+                <a target="_blank" rel="noreferrer" className="text-black" href="https://twitter.com/NFHustle/"> <strong className="underline">NFHustle</strong></a>
             </div>
             <div className="text-center text-black text-sm pb-2">
                 Built by

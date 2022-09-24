@@ -49,6 +49,10 @@ const Footer = () => {
                 Built by
                 <a target="_blank" rel="noreferrer" className="text-black" href="https://twitter.com/NFHustle"> <strong>@NFHustle</strong></a>
             </div>
+            <div className="text-center text-black text-sm pb-2">
+                Coded by
+                <a target="_blank" rel="noreferrer" className="text-black" href="https://twitter.com/laloutre"> <strong>@laloutre</strong></a>
+            </div>
         </footer>
     );
 }
